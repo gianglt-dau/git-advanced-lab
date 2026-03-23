@@ -1,5 +1,6 @@
 # Git Advanced Lab — Student Guide
 
+Nội dung tự gõ vào
 ## Mục tiêu
 Sau bài lab này, bạn sẽ luyện:
 - kết nối local repo với remote repo
